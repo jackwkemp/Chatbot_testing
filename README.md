@@ -1,13 +1,15 @@
-# Chatbot Testing
+# Chatbot Exploration Project
+This repository showcases a project I completed during my time with a previous employer.
 
-An example of a piece of work I completed at my previous employer.
+## Purpose
+The primary goal was to evaluate the feasibility of introducing a bot to handle highly repetitive and basic driver queries.
 
-Aim:
-To see if a bot could somehow be introduced to take care of highly repetitive, basic driver queries.
+## Overview
+The project includes:
 
-I was given the task of mocking up a few bots with some basic questions and responses.
+- Sample bots to test basic question-and-response functionality
+- Exploratory bots to assess runtime capabilities
+- A basic Flask example for implementation testing
 
-
-Amongst the collection is sample bots to simply see if they could run, use test questions and responses and a basic Flask example.
-
-The project was abandoned very early on as the team’s resources were spent on higher priority tasks.
+## Status
+This project served as an early proof-of-concept. While it demonstrated potential, the initiative was paused as the team shifted focus to higher-priority objectives. The insights gained from this exploration laid the groundwork for future discussions on automation.
